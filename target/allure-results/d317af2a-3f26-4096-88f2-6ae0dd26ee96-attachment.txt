@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+        "email": "celena.berge@ya.ru",
+        "name": "Celena"
+    },
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzY2YTM4OTNlYmMyMDAxYjQ5YjRiMyIsImlhdCI6MTY1NzE3MDQ4OCwiZXhwIjoxNjU3MTcxNjg4fQ.SURqHWQen96rMgaYf9bg122zohuH9Oa7_VwLm9F-ZF8",
+    "refreshToken": "eed19efc8bbddd5eba1b26767f228c72982966ce756a2541c908c893c5adf661d2ce177edb7675d6"
+}

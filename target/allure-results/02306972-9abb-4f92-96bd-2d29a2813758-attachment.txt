@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+        "email": "dixie.ledner@ya.ru",
+        "name": "Dixie"
+    },
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzY2YTNhOTNlYmMyMDAxYjQ5YjRiNiIsImlhdCI6MTY1NzE3MDQ5MCwiZXhwIjoxNjU3MTcxNjkwfQ.gfFHOI81UULD77Ki6_xzuXoWsLTyXzqC1dYXaPzWJrY",
+    "refreshToken": "5800a0c910c01f273cae4716193659773686acb12facb2df4f01113984474baaa0cafdd5665e63a8"
+}
