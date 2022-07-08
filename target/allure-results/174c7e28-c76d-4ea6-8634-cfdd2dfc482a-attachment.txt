@@ -1,9 +1,0 @@
-{
-    "success": true,
-    "user": {
-        "email": "jamar.kunde@ya.ru",
-        "name": "Jamar"
-    },
-    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzY2YTM1OTNlYmMyMDAxYjQ5YjRhYyIsImlhdCI6MTY1NzE3MDQ4NSwiZXhwIjoxNjU3MTcxNjg1fQ.7a4SflMqfzbNkMDozC3BMUlpva6pmp0sEx7fTQOkOQo",
-    "refreshToken": "923d2ae1425d33a2b429247ff156f6600426937b54e6704d081156adcbd5dbe57654d6ff2af573c8"
-}

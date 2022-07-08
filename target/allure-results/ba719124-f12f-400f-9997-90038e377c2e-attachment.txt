@@ -1,1 +1,0 @@
-{"password":"Berge","name":"Celena","email":"Celena.Berge@ya.ru"}

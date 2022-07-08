@@ -1,9 +1,0 @@
-{
-    "success": true,
-    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzY2YTM2OTNlYmMyMDAxYjQ5YjRhZSIsImlhdCI6MTY1NzE3MDQ4NiwiZXhwIjoxNjU3MTcxNjg2fQ.GG2oarNq_-c8YVCURVlG0v1mrFOwrgNOoKPRmVZWzlA",
-    "refreshToken": "13809196b9fb32cd95a8201c3daa88d5cbbb0487a41587c1445832323212b367e0fe6c9dd70025e5",
-    "user": {
-        "email": "caron.larson@ya.ru",
-        "name": "Caron"
-    }
-}
