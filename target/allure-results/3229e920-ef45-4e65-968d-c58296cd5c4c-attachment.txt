@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzdhMjVmOTNlYmMyMDAxYjQ5YzA5NyIsImlhdCI6MTY1NzI1MDM5OSwiZXhwIjoxNjU3MjUxNTk5fQ.rVSuULKAFgdkRViBjjd9Lvj-ZrGopNPZtMhxdyKTpek",
+    "refreshToken": "31a7c659c739ed7f7b2bbc489c90fba0287f358d406a709380860efe2f5130ca299fd91f506362a4",
+    "user": {
+        "email": "susanne.mosciski@ya.ru",
+        "name": "Susanne"
+    }
+}

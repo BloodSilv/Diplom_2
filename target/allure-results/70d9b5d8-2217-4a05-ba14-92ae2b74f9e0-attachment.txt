@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+        "email": "palmer.kilback@ya.ru",
+        "name": "Palmer"
+    },
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzdhMjYzOTNlYmMyMDAxYjQ5YzA5ZiIsImlhdCI6MTY1NzI1MDQwMywiZXhwIjoxNjU3MjUxNjAzfQ.YhWRu7nkZDmL3fXibbPh8z-i53i9nXakKwHzfONUX38",
+    "refreshToken": "33ccea69e7bba80bf332b9162f1add00a1d437a7f37c3acb8c084742816286a34f4b39f1b7989ab4"
+}

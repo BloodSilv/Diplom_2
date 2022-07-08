@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+        "email": "janise.skiles@ya.ru",
+        "name": "Janise"
+    },
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzdhMjYxOTNlYmMyMDAxYjQ5YzA5YyIsImlhdCI6MTY1NzI1MDQwMSwiZXhwIjoxNjU3MjUxNjAxfQ.Nyqgl_r67m8MJIym_F9H5hjm3bCFmopUEU_4LzLpuCM",
+    "refreshToken": "07f57e53e06830af98296fa6a793f15696a8660533cf38b2d339f18a00c2ee1690570b084fd85e09"
+}
