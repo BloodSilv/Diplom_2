@@ -8,7 +8,7 @@ import static io.restassured.RestAssured.given;
 
 public class CreateOrder extends BaseUrls {
 
-    private JSONObject getJson(List<String> ingredients){
+    private JSONObject getIngredientsJsonList(List<String> ingredients){
         return new JSONObject()
                 .put("ingredients",
                         ingredients);
@@ -16,7 +16,7 @@ public class CreateOrder extends BaseUrls {
 
     @Step("Create order")
     Response postOrder(List<String> ingredients, String userToken) {
-        JSONObject json = getJson(ingredients);
+        JSONObject json = getIngredientsJsonList(ingredients);
         Allure.attachment("New order data: ", String.valueOf(json));
         return given()
                 .spec(getBaseSpec())
