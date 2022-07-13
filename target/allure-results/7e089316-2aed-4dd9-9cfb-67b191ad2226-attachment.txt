@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "user": {
+        "email": "benton.abbott@ya.ru",
+        "name": "Benton"
+    },
+    "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzdhMjVlOTNlYmMyMDAxYjQ5YzA5NSIsImlhdCI6MTY1NzI1MDM5OCwiZXhwIjoxNjU3MjUxNTk4fQ.ysa4O99pBAkV9yQPNcQBKqNSKH8kP3Mrd8a0NLGPHX4",
+    "refreshToken": "af05c8cab9beed091b9bf32082b044cf242ac537af6c89d897f25b0b104e7b3aea85d5581f1c5273"
+}
